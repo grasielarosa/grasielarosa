@@ -1,11 +1,15 @@
 # Hello!!! I'm Grasiela Rosa 👋 👋
 
+## Front-end Trainee
+
 [![Linkedin: grasielarosa](https://img.shields.io/badge/-grasielarosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grasielarosa/)](https://www.linkedin.com/in/grasielarosa/)
 ![GitHub followers](https://img.shields.io/github/followers/grasielarosa?label=Follow&style=social)
 
-| Front-end Trainee | <img src="./assets/grasiela_rosa_illustration.png" width="25%" /> |
-| ----------------- | :---------------------------------------------------------------: |
-
+<br>
+<br>
+<img src="./assets/grasiela_rosa_illustration.png" width="25%" />
+<br>
+<br>
 <img src="./assets/chakanas.png" width="100%" />
 <br>
 <br>
