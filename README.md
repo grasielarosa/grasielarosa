@@ -9,7 +9,6 @@
 <br>
 <img src="./assets/grasiela_rosa_illustration.png" width="25%" />
 <br>
-<br>
 
 #### Skills:
 
