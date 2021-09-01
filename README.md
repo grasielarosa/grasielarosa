@@ -10,9 +10,6 @@
 <img src="./assets/grasiela_rosa_illustration.png" width="25%" />
 <br>
 <br>
-<img src="./assets/chakanas.png" width="100%" />
-<br>
-<br>
 
 #### Skills:
 
