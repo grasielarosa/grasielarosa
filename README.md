@@ -16,8 +16,8 @@
 - CSS
 - Javascript
 - Bootstrap5
-- Sass [in progress]
-- React [soon]
+- Sass
+- React [in progress]
 
 <br>
 
