@@ -33,7 +33,7 @@
 <img src="./assets/chakanas.png" width="100%">
 <br> <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grasielarosa)](https://github.com/grasielarosa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grasielarosa&layout=compact)](https://github.com/grasielarosa/github-readme-stats)
 
 <img src="./assets/chakanas.png" width="100%">
 <br> <br> 
