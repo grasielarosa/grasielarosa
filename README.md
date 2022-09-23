@@ -8,7 +8,7 @@
 
 # Hello!!! I'm Grasiela Rosa 👋 👋
 
-## Front-end Trainee
+## Front-end Junior
 
 #### Skills:
 
@@ -18,7 +18,9 @@
 - Bootstrap5
 - Sass
 - Typescript
-- React
+- React JS
+- React Native
+- Git
 
 <br>
 
